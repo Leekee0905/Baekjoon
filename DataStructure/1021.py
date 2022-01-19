@@ -1,5 +1,3 @@
-import sys
-
 N,M = map(int, input().split())
 
 findList  = list(map(int, input().split()))
